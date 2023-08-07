@@ -1,10 +1,13 @@
-### Hi there 👋
+**Hello, my name is Natalius!**
+
+People usually call me Nat or Brie
+
+I have an interest in aerospace 🛰️ even though I mostly do web development 🌐
+For simple web applications my current favourite stack is SvelteKit + Firebase
+
+You can reach me by [email](mailto:nat@natalius.cc) or on [Twitter](https://twitter.com/brie_apollo_21) 🧭
 
 <!--
-**Natalius-dev/Natalius-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
