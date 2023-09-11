@@ -1,18 +1,16 @@
 **Hello, my name is Natalius!**  
 
-People usually call me Nat or Brie 
+People usually call me Nat or Brie! 
 
-I have an interest in aerospace 🛰️ even though I mostly do web development 🌐 
+I love aerospace and aspire to work in that field as a Computer Scientist 📡🛰️ 
 
 For simple web applications my current favourite stack is SvelteKit + Firebase 
 
-I am currently learning:
+I am currently learning 🌱
 - C++
 - Python
-- ROS
 
-You can reach me by [email](mailto:nat@natalius.cc) or on [Twitter](https://twitter.com/brie_apollo_21) 🧭
-
+You can reach me by [email](mailto:nat@natalius.cc) or on [Twitter](https://twitter.com/brie_apollo_21) 🧭 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
