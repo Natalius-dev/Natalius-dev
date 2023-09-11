@@ -10,7 +10,7 @@ I am currently learning 🌱
 - C++
 - Python
 
-You can reach me by [email](mailto:nat@natalius.cc) or on [Twitter](https://twitter.com/brie_apollo_21) 🧭 
+You can reach me by [email](mailto:nat@natalius.cc) 🧭 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
